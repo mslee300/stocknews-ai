@@ -28,27 +28,14 @@ Reading hundreds of stock news every day can be tough. Stocknews AI uses AI algo
   <img src = "https://user-images.githubusercontent.com/55467050/209973896-e81c2373-c09a-424c-8ea0-5b46af0f52c9.png" width=700>
 </p>
 
-## Features
+## Dark Mode
 
-A few of the things you can do with GitPoint:
-
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+Dark mode is also available:
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
+  <img src = "https://user-images.githubusercontent.com/55467050/209974439-9d06ac8e-736f-43e8-a83b-792ad38003ba.png" width=700>
 </p>
 
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
-</p>
 
 ## Feedback
 
