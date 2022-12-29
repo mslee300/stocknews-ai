@@ -10,7 +10,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Darkmode](#Dark-mode)
+- [Dark-mode](#Dark-mode)
 - [Feedback](#feedback)
 - [Backers](#backers-)
 - [Sponsors](#sponsors-)
