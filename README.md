@@ -25,7 +25,7 @@ Reading hundreds of stock news every day can be tough. Stocknews AI uses AI algo
 **Available for both desktop and mobile.**
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/55467050/209973896-e81c2373-c09a-424c-8ea0-5b46af0f52c9.png" width=350>
+  <img src = "https://user-images.githubusercontent.com/55467050/209973896-e81c2373-c09a-424c-8ea0-5b46af0f52c9.png" width=700>
 </p>
 
 ## Features
