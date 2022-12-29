@@ -12,7 +12,7 @@
 - [Introduction](#introduction)
 - [Dark-mode](#Dark-mode)
 - [Feedback](#feedback)
-- [Sponsors](#sponsors-)
+- [Sponsors](#sponsors)
 - [Contact](#contact)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
