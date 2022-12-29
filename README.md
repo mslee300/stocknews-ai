@@ -1,7 +1,7 @@
 <h1 align="center"> Stocknews AI </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img width="1440" alt="Screen Shot 2022-12-29 at 10 07 23 AM" src="https://user-images.githubusercontent.com/55467050/209972146-561aaba7-812c-408f-b27e-4a0c4b73373c.png">
+    <img src="https://user-images.githubusercontent.com/55467050/209972471-061e2f7d-54b3-466f-ac32-280ba2bebc35.png">
   </a>
 </p>
 
