@@ -247,12 +247,7 @@ for row in soup.findAll('a', attrs={'data-test-id': 'post-list-item-title'}):
 
 
 # Curation Algorithm
-list2 = []
-keywords = ['stocks', 'pick', 'buy', 'watch', 'this stock', 'stock of the', 'jumped', 'portfolio', 'rise', 'deal', 'cheap', 'rose', 'overvalu', 'sell', 'winner', 'long-term', 'optimistic', 'hot', 'bull', 'favorite']
-for x in list:
-  for y in keywords:
-    if y in x['title'].lower():
-      list2.append(x)
+# Trade Scret..
 
 
 #Remove Duplicate items
